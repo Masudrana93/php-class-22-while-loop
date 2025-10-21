@@ -20,6 +20,8 @@ while ( condition/ loop ta kotobar cholbe ) {
 
 }
 
+Note: 'while loop' er shortho holo, jodi condition ta true hoy, tahole ata loop body te thaka information ta  run/show korbe.
+
 */
 //example-1
 
